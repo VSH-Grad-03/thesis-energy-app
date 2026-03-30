@@ -1,0 +1,41 @@
+Simulation Name,City,State,Building_Type,Site_Elec_MWh,Site_Gas_Therms,Grid_Carbon_Factor_lbs/MWh,Total_Carbon_Lbs,Elec_Cost_$,Gas_Cost_$,Total_Cost_$
+Office_Albuquerque_Elec,Albuquerque,Newmexico,Office,158.17,0,945,157504.32,22143.94,0,22143.94
+Office_Albuquerque_Gas,Albuquerque,Newmexico,Office,104.75,6175.84,945,176570.55,14665.66,6793.43,21459.09
+Office_Atlanta_Elec,Atlanta,Georgia,Office,199.52,0,698.47,146848.4,25937.5,0,25937.5
+Office_Atlanta_Gas,Atlanta,Georgia,Office,107.89,6574.32,698.47,156325.21,14025.25,8546.61,22571.86
+Office_Baltimore_Elec,Baltimore,Maryland,Office,187.62,6402.01,569.65,187527.17,30019.92,8962.81,38982.73
+Office_Baltimore_Gas,Baltimore,Maryland,Office,199.48,3294.65,569.65,158286.11,31916.45,4612.5,36528.95
+Office_Boston_Elec,Boston,Massachusetts,Office,0,5877.87,591.67,68771.12,0,11755.75,11755.75
+Office_Boston_Gas,Boston,Massachusetts,Office,197.12,3307.9,591.67,161599.96,51251.4,6615.8,57867.19
+Office_Chicago_Elec,Chicago,Illinois,Office,189.26,0,472.13,94158.65,22711.37,0,22711.37
+Office_Chicago_Gas,Chicago,Illinois,Office,102.54,7730.86,472.13,141463.32,12304.32,7344.32,19648.64
+Office_Denver_Elec,Denver,Colorado,Office,160.41,0,1043.84,176437.01,22456.95,0,22456.95
+Office_Denver_Gas,Denver,Colorado,Office,102.32,6576.83,1043.84,189498.2,14325.3,6576.83,20902.13
+Office_Detroit_Elec,Detroit,Michigan,Office,191.94,0,804.11,162637.35,26871.8,0,26871.8
+Office_Detroit_Gas,Detroit,Michigan,Office,101.47,4240.83,804.11,135594.23,14205.5,3816.74,18022.25
+Office_Duluth_Elec,Duluth,Minnesota,Office,183.19,6250.54,716.19,211376.49,27477.79,6875.59,34353.38
+Office_Duluth_Gas,Duluth,Minnesota,Office,270.04,5867.38,716.19,272443.82,40506.64,6454.12,46960.76
+Office_Fairbanks_Elec,Fairbanks,Alaska,Office,210.34,0,835.94,185278.23,58894.51,0,58894.51
+Office_Fairbanks_Gas,Fairbanks,Alaska,Office,98.57,13122.52,835.94,240359.1,27599.3,32806.31,60405.61
+Office_Helena_Elec,Helena,Montana,Office,165.78,0,1103.01,192684.18,19893.63,0,19893.63
+Office_Helena_Gas,Helena,Montana,Office,99.31,7641.99,1103.01,204837.51,11917.15,6877.79,18794.94
+Office_Houston_Elec,Houston,Texas,Office,239.13,0,809.89,204074.55,21521.37,0,21521.37
+Office_Houston_Gas,Houston,Texas,Office,99.1,7214.84,809.89,168983.13,8918.57,6132.61,15051.18
+Office_Las Vegas_Elec,Lasvegas,Nevada,Office,192.68,0,655.08,133001.43,28901.48,0,28901.48
+Office_Las Vegas_Gas,Lasvegas,Nevada,Office,204.04,3027.49,655.08,176268.95,30606.41,3632.99,34239.4
+Office_Los Angeles_Elec,Losangeles,California,Office,148.31,5060.41,420.04,124848.51,37076.5,10626.86,47703.36
+Office_Los Angeles_Gas,Losangeles,California,Office,159.37,1778.07,420.04,91342.44,39842.67,3733.94,43576.61
+Office_Miami_Elec,Miami,Florida,Office,293.56,0,805.62,249207.07,35227.05,0,35227.05
+Office_Miami_Gas,Miami,Florida,Office,14.85,4350.32,805.62,63502.12,1781.58,4785.35,6566.92
+Office_Minneapolis_Elec,Minneapolis,Minnesota,Office,192.22,6558.8,716.19,221800.95,28832.91,7214.67,36047.59
+Office_Minneapolis_Gas,Minneapolis,Minnesota,Office,253.57,5180.18,716.19,251972.37,38035.79,5698.2,43733.99
+Office_New York_Elec,Newyork,Newyork,Office,180.27,0,425.39,80807.14,39659.82,0,39659.82
+Office_New York_Gas,Newyork,Newyork,Office,51.77,6724.55,425.39,101882.77,11389.18,12104.19,23493.37
+Office_Phoenix_Elec,Phoenix,Arizona,Office,219.81,7500.07,639.65,235905.29,28574.71,14175.13,42749.84
+Office_Phoenix_Gas,Phoenix,Arizona,Office,228.54,3710.67,639.65,197456.16,29710.12,7013.16,36723.28
+Office_Sacramento_Elec,Sacramento,California,Office,155.04,0,420.04,68623.03,35659.6,0,35659.6
+Office_Sacramento_Gas,Sacramento,California,Office,105.87,5718.08,420.04,113762.58,24351.08,12065.16,36416.23
+Office_San Francisco_Elec,Sanfrancisco,California,Office,142.37,4857.97,420.04,119854,37017,10444.63,47461.64
+Office_San Francisco_Gas,Sanfrancisco,California,Office,158.81,1886.98,420.04,92369.44,41291.09,4057.01,45348.1
+Office_Seattle_Elec,Seattle,Washington,Office,140.02,4777.56,165.15,80263.24,15401.8,6210.82,21612.62
+Office_Seattle_Gas,Seattle,Washington,Office,159.57,2170.02,165.15,53157.92,17552.76,2821.03,20373.78
